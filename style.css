@@ -6,6 +6,7 @@
 
 .slider img {
   filter: brightness(60%);
+ 
 }
 .fa-solid {
   color: goldenrod;
@@ -30,7 +31,10 @@ footer ul li {
   padding: 12px;
   font-size: 2.4em;
 }
-
+.fa-brands:hover{
+  color:rgb(197, 63, 63);
+  cursor: pointer;
+}
 /* Small devices (landscape phones, 576px  */
 @media (max-width: 600px) {
   #courses .row .col img {
