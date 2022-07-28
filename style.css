@@ -1,51 +1,42 @@
 /* Universel selector */
 
-*{
-    font-family: 'Poppins', sans-serif;
-   
+* {
+  font-family: "Poppins", sans-serif;
 }
 
-.slider img{
-    filter: brightness(60%);
-    
+.slider img {
+  filter: brightness(60%);
 }
-.explore-right-area{
-    background: rgb(252, 209, 209);
+.fa-solid {
+  color: goldenrod;
 }
-
-.fa-solid{
-    color:goldenrod;
+.small-icon img {
+  border-radius: 50%;
+  width: 100px;
 }
-.small-icon img{
-    border-radius:50%;
-    width:100px;
+footer {
+  background: #000;
+  color: white;
+  height: 300px;
 }
-footer{
-    background: #000;
-    color:white;
-    height: 300px;
+footer a {
+  text-decoration: none;
 }
-footer a{
-    text-decoration: none;
+footer ul {
+  list-style-type: none;
 }
-footer  ul{
-    list-style-type: none;
-
-}
-footer ul li{
-    display:inline-block;
-    padding:12px;
-    font-size:2.4em;
+footer ul li {
+  display: inline-block;
+  padding: 12px;
+  font-size: 2.4em;
 }
 
- /* Small devices (landscape phones, 576px  */
-@media (max-width: 600px) { 
+/* Small devices (landscape phones, 576px  */
+@media (max-width: 600px) {
+  #courses .row .col img {
+    width: 100%;
+    margin-bottom: 30px;
+  }
+}
 
-    #courses .row .col img{
-        width:100%;
-        margin-bottom: 30px;
-     
-    }
-
- }
-
+/* progamming hero batch 6th Mustafa rahman one day my dream will be success,mirsarai,chattagram */
