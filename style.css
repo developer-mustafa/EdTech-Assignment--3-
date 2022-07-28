@@ -1,3 +1,5 @@
+/* Universel selector and Font family popins */
+
 *{
     font-family: 'Poppins', sans-serif;
 }
@@ -9,9 +11,7 @@
 .explore-right-area{
     background: rgb(252, 209, 209);
 }
-.success-area img{
- 
-}
+
 .fa-solid{
     color:goldenrod;
 }
