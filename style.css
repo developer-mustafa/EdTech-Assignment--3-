@@ -1,0 +1,29 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.slider img{
+    filter: brightness(50%);
+    width:300px;
+}
+.explore-right-area{
+    background:#F4FAFD;
+}
+.success-area img{
+ 
+}
+.fa-solid{
+    color:goldenrod;
+}
+.small-icon img{
+    border-radius:50%;
+    width:50px;
+}
+footer{
+    background: #000;
+    color:white;
+    height: 300px;
+}
+footer section a{
+    text-decoration: none;
+}
