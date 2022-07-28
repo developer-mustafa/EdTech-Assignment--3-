@@ -3,11 +3,11 @@
 }
 
 .slider img{
-    filter: brightness(50%);
-    width:300px;
+    filter: brightness(60%);
+    
 }
 .explore-right-area{
-    background:#F4FAFD;
+    background: rgb(252, 209, 209);
 }
 .success-area img{
  
@@ -17,7 +17,7 @@
 }
 .small-icon img{
     border-radius:50%;
-    width:50px;
+    width:100px;
 }
 footer{
     background: #000;
